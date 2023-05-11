@@ -1,0 +1,16 @@
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\obj\Debug\TwitterProject.csproj.AssemblyReference.cache
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\obj\Debug\TwitterProject.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\obj\Debug\TwitterProject.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\bin\Debug\TwitterProject.exe.config
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\bin\Debug\TwitterProject.exe
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\bin\Debug\TwitterProject.pdb
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\obj\Debug\TwitterProject.exe
+D:\Users\User\Documents\לימודים\משרד הבטחון\TwitterProject\obj\Debug\TwitterProject.pdb
+C:\Users\User\Downloads\TwitterProject\bin\Debug\TwitterProject.exe.config
+C:\Users\User\Downloads\TwitterProject\bin\Debug\TwitterProject.exe
+C:\Users\User\Downloads\TwitterProject\bin\Debug\TwitterProject.pdb
+C:\Users\User\Downloads\TwitterProject\obj\Debug\TwitterProject.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TwitterProject\obj\Debug\TwitterProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\TwitterProject\obj\Debug\TwitterProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TwitterProject\obj\Debug\TwitterProject.exe
+C:\Users\User\Downloads\TwitterProject\obj\Debug\TwitterProject.pdb
